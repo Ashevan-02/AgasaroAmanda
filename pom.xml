@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>edu.auca</groupId>
+  <artifactId>student-registration</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <name>AUCA Student Registration</name>
+  <description>Domain model for AUCA Student Registration module</description>
+
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <jakarta.persistence.version>3.1.0</jakarta.persistence.version>
+  </properties>
+
+  <dependencies>
+    <!-- JPA API so Hibernate/Jakarta annotations resolve later -->
+    <dependency>
+      <groupId>jakarta.persistence</groupId>
+      <artifactId>jakarta.persistence-api</artifactId>
+      <version>${jakarta.persistence.version}</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+
+</project>

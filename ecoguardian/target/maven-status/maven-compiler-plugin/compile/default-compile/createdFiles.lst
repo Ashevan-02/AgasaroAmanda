@@ -1,1 +1,16 @@
+rw/ac/ecoguardian/user/Person.class
+rw/ac/ecoguardian/user/PersonProfile.class
+rw/ac/ecoguardian/location/Sector.class
+rw/ac/ecoguardian/location/Province.class
 rw/ac/ecoguardian/EcoGuardianApplication.class
+rw/ac/ecoguardian/issue/Category.class
+rw/ac/ecoguardian/user/Role.class
+rw/ac/ecoguardian/issue/IssuePriority.class
+rw/ac/ecoguardian/issue/IssueStatus.class
+rw/ac/ecoguardian/issue/Tag.class
+rw/ac/ecoguardian/issue/Issue.class
+rw/ac/ecoguardian/location/Village.class
+rw/ac/ecoguardian/common/BaseEntity.class
+rw/ac/ecoguardian/location/District.class
+rw/ac/ecoguardian/location/Cell.class
+rw/ac/ecoguardian/issue/Attachment.class

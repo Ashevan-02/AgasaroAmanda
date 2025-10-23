@@ -1,1 +1,16 @@
 /workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/EcoGuardianApplication.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/common/BaseEntity.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/issue/Attachment.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/issue/Category.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/issue/Issue.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/issue/IssuePriority.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/issue/IssueStatus.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/issue/Tag.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/location/Cell.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/location/District.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/location/Province.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/location/Sector.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/location/Village.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/user/Person.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/user/PersonProfile.java
+/workspace/ecoguardian/src/main/java/rw/ac/ecoguardian/user/Role.java
